@@ -1,0 +1,227 @@
+player,position,team,age,club,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,xg,npxg,xg_assist,npxg_xg_assist,xg_per90,xg_assist_per90,xg_xg_assist_per90,npxg_per90,npxg_xg_assist_per90,general_position,big_chance,chance_created_per90,pass_per90,tackles_per90,successful_dribbles
+Aaron Mooy,MF,Australia,35,Celtic,1990,4,4,360,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.1,0.01,0.02,0.03,0.01,0.03,Midfielder,0,0,0,0,0
+Aaron Ramsey,MF,Wales,35,Nice,1990,3,3,266,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.1,0.01,0.01,0.02,0.01,0.02,Midfielder,0,0,0,0,0
+Abdelhamid Sabiri,MF,Morocco,29,Sampdoria,1996,5,2,181,2,0,1,0,0,0,1,0,0,0.5,0.5,0,0.5,0.1,0.1,0.9,1,0.08,0.53,0.6,0.08,0.6,Midfielder,0,0,0,0,0
+Abdulaziz Hatem,MF,Qatar,35,Al Rayyan SC,1990,3,2,196,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0.02,0.01,0.02,Midfielder,0,0,0,0,0
+Abdulellah Al-Malki,MF,Saudi Arabia,31,Al-Hilal,1994,2,2,174,1.9,0,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0,0.1,0.06,0,0.06,0.06,0.06,Midfielder,0,0,0,0,0
+Abdulrahman Al-Aboud,MF,Saudi Arabia,30,Al-Ittihad,1995,2,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.18,0.06,0.24,0.18,0.24,Midfielder,0,0,0,0,0
+Adrien Rabiot,MF,France,30,Juventus,1995,6,5,483,5.4,1,1,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37,1.1,1.1,0.9,1.9,0.2,0.16,0.36,0.2,0.36,Midfielder,1,0,0,0,0
+Agustín Canobbio,MF,Uruguay,27,Atl Paranaense,1998,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Ahmad Nourollahi,MF,IR Iran,32,Al-Ahli Dubai FC,1993,3,3,223,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Ajdin Hrustic,MF,Australia,29,Hellas Verona,1996,3,0,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Alan Franco,MF,Ecuador,27,Talleres,1998,2,1,46,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Alexis Mac Allister,MF,Argentina,27,Brighton,1998,6,6,550,6.1,1,1,1,0,0,0,0,0.16,0.16,0.33,0.16,0.33,0.7,0.7,1,1.7,0.12,0.18,0.3,0.12,0.3,Midfielder,2,1.3,89,44.4,66.7
+Ali Al Hassan,MF,Saudi Arabia,28,Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.15,0,0.15,0.15,0.15,Midfielder,0,0,0,0,0
+Ali Assadalla,MF,Qatar,32,Al Sadd SC,1993,1,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Ali Gholizadeh,MF,IR Iran,29,Charleroi,1996,3,2,199,2.2,0,1,0,0,0,0,0,0,0.45,0.45,0,0.45,0,0,0.2,0.2,0.01,0.07,0.09,0.01,0.09,Midfielder,0,0,0,0,0
+Ali Karimi,MF,IR Iran,31,Kayserispor,1994,3,1,99,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Alireza Jahanbakhsh,MF,IR Iran,32,Feyenoord,1993,2,1,59,0.7,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0,0.2,0.29,0,0.29,0.29,0.29,Midfielder,0,0,0,0,0
+Alphonso Davies,MF,Canada,25,Bayern Munich,2000,3,3,270,3,1,0,1,0,1,1,0,0.33,0,0.33,0.33,0.33,1.1,0.3,0.5,0.8,0.36,0.17,0.53,0.09,0.27,Midfielder,0,0,0,0,0
+Amadou Onana,MF,Belgium,24,Everton,2001,2,1,104,1.2,0,0,0,0,0,2,0,0,0,0,0,0,0.5,0.5,0,0.5,0.4,0,0.4,0.4,0.4,Midfielder,0,0,0,0,0
+Andre-Frank Zambo Anguissa,MF,Cameroon,30,Napoli,1995,3,3,260,2.9,0,1,0,0,0,0,0,0,0.35,0.35,0,0.35,0.1,0.1,0,0.1,0.02,0,0.02,0.02,0.02,Midfielder,0,0,0,0,0
+Andre Ayew,MF,Ghana,36,Al Sadd SC,1989,3,3,198,2.2,1,0,1,0,1,1,0,0.45,0,0.45,0.45,0.45,1.1,0.4,0,0.4,0.52,0,0.52,0.16,0.16,Midfielder,0,0,0,0,0
+Andre Guardado,MF,Mexico,39,Betis,1986,1,1,41,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Anis Ben Slimane,MF,Tunisia,24,BrÃ¸ndby,2001,2,2,148,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.07,0.06,0.12,0.07,0.12,Midfielder,0,0,0,0,0
+Antoine Griezmann,MF,France,34,Athletico Madrid,1991,7,6,537,6,0,3,0,0,0,1,0,0,0.5,0.5,0,0.5,0.7,0.7,3.1,3.7,0.11,0.52,0.63,0.11,0.63,Midfielder,7,4,83.9,57.1,82.7
+Ao Tanaka,MF,Japan,27,DÃ¼sseldorf,1998,3,2,171,1.9,1,0,1,0,0,0,0,0.53,0,0.53,0.53,0.53,1,1,0.1,1,0.55,0.05,0.6,0.55,0.6,Midfielder,0,0,0,0,0
+Assim Madibo,MF,Qatar,29,Al Duhail SC,1996,2,2,153,1.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.02,0.02,0,0.02,Midfielder,0,0,0,0,0
+Atiba Hutchinson,MF,Canada,42,BeÅiktaÅ,1983,3,2,159,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.07,0,0.07,0.07,0.07,Midfielder,0,0,0,0,0
+Aurelien Tchouameni,MF,France,25,Real Madrid,2000,7,7,621,6.9,1,0,1,0,0,1,0,0.14,0,0.14,0.14,0.14,0.3,0.3,1,1.4,0.05,0.16,0.21,0.05,0.21,Midfielder,2,0,0,0,0
+Awer Mabil,MF,Australia,30,CÃ¡diz,1995,2,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Axel Witsel,MF,Belgium,36,Athletico Madrid,1989,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.01,0.02,0.02,0.01,0.02,Midfielder,0,0,0,0,0
+Azzedine Ounahi,MF,Morocco,25,Angers,2000,7,6,568,6.3,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.5,0.8,0.05,0.08,0.13,0.05,0.13,Midfielder,0,0,0,0,0
+Aïssa Laïdouni,MF,Tunisia,29,FerencvÃ¡ros,1996,3,3,243,2.7,0,1,0,0,0,1,0,0,0.37,0.37,0,0.37,0.1,0.1,0.4,0.6,0.05,0.16,0.21,0.05,0.21,Midfielder,0,0,0,0,0
+Bernardo Silva,MF,Portugal,31,Manchester City,1994,5,4,356,4,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.4,0.5,0.04,0.09,0.14,0.04,0.14,Midfielder,0,0,0,0,0
+Bilal El Khannous,MF,Morocco,21,Genk,2004,1,1,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Brandon Aguilera,MF,Costa Rica,22,AsociaciÃ³n Deportiva Guanacasteca,2003,3,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Brenden Aaronson,MF,United States,25,Leeds United,2000,4,0,108,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.06,0.18,0.24,0.06,0.24,Midfielder,0,0,0,0,0
+Bruno Fernandes,MF,Portugal,31,Manchester United,1994,4,4,360,4,2,3,1,1,1,1,0,0.51,0.76,1.26,0.25,1.01,1.1,0.3,1.7,2,0.28,0.42,0.71,0.08,0.51,Midfielder,5,2.3,87.6,75,75
+Bruno GuimarÃ£es,MF,Brazil,28,Newcastle Utd,1997,2,0,69,0.8,0,0,0,0,0,1,0,0,0,0,0,0,0.7,0.7,0,0.7,0.92,0,0.92,0.92,0.92,Midfielder,0,0,0,0,0
+Bryan Ruiz,MF,Costa Rica,40,Liga Deportiva Alajuelense,1985,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Carlos Gruezo,MF,Ecuador,30,Augsburg,1995,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Carlos Soler,MF,Spain,28,Paris S-G,1997,2,0,92,1,1,0,1,0,0,0,0,0.98,0,0.98,0.98,0.98,0.5,0.5,0.2,0.7,0.78,0.26,1.04,0.78,1.04,Midfielder,0,0,0,0,0
+Casemiro,MF,Brazil,33,Manchester Utd,1992,4,4,390,4.3,1,0,1,0,0,1,0,0.23,0,0.23,0.23,0.23,0.4,0.4,0.1,0.6,0.1,0.04,0.14,0.1,0.14,Midfielder,0,0,0,0,0
+Celso Borges,MF,Costa Rica,37,Liga Deportiva Alajuelense,1988,3,3,249,2.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.02,0.02,0,0.02,Midfielder,0,0,0,0,0
+Charly RodrÃ­guez,MF,Mexico,28,Cruz Azul,1997,2,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Cheikhou KouyatÃ©,MF,Senegal,36,Nott'ham Forest,1989,1,1,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05,0.05,0,0.05,Midfielder,0,0,0,0,0
+Christian Bassogog,MF,Cameroon,30,Shanghai Shen,1995,1,0,24,0.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Christian Eriksen,MF,Denmark,33,Manchester Utd,1992,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.4,0.6,0.06,0.14,0.2,0.06,0.2,Midfielder,1,3,0,0,0
+Christian NÃ¸rgaard,MF,Denmark,31,Brentford,1994,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Craig Goodwin,MF,Australia,34,Adelaide,1991,4,3,234,2.6,1,1,1,0,0,0,0,0.38,0.38,0.77,0.38,0.77,0.3,0.3,0.6,0.9,0.11,0.25,0.36,0.11,0.36,Midfielder,0,0,0,0,0
+Damian SzymaÅski,MF,Poland,30,AEK Athens,1995,1,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Daniel ChacÃ³n,MF,Costa Rica,24,CS CartaginÃ©s,2001,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Daniel Kyereh,MF,Ghana,29,Freiburg,1996,3,0,33,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+David Wotherspoon,MF,Canada,35,St Johnstone,1990,1,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Davy Klaassen,MF,Netherlands,32,Ajax,1993,4,3,190,2.1,1,2,1,0,0,0,0,0.47,0.95,1.42,0.47,1.42,0.2,0.2,0.3,0.5,0.11,0.14,0.25,0.11,0.25,Midfielder,0,0,0,0,0
+Declan Rice,MF,England,26,West Ham,1999,5,5,417,4.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,Midfielder,0,0,0,0,0
+Denis Zakaria,MF,Switzerland,29,Chelsea,1996,2,0,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.07,0,0.07,0.07,0.07,Midfielder,0,0,0,0,0
+Djibril Sow,MF,Switzerland,28,Eint Frankfurt,1997,4,4,264,2.9,0,1,0,0,0,0,0,0,0.34,0.34,0,0.34,0.2,0.2,0.2,0.3,0.06,0.06,0.12,0.06,0.12,Midfielder,0,0,0,0,0
+Dries Mertens,MF,Belgium,38,Galatasaray,1987,2,1,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0.8,0.1,0.9,0.94,0.17,1.11,0.94,1.11,Midfielder,0,0,0,0,0
+Dusan Tadic,MF,Serbia,37,Ajax,1988,3,3,257,2.9,0,2,0,0,0,0,0,0,0.7,0.7,0,0.7,0.1,0.1,0.7,0.8,0.03,0.25,0.28,0.03,0.28,Midfielder,1,0,0,0,0
+Eden Hazard,MF,Belgium,34,Real Madrid,1991,3,2,124,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.04,0.01,0.05,0.04,0.05,Midfielder,0,0,0,0,0
+Edson Ãlvarez,MF,Mexico,28,Ajax,1997,2,2,175,1.9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0.2,0.01,0.11,0.12,0.01,0.12,Midfielder,0,0,0,0,0
+Ehsan Hajsafi,MF,IR Iran,35,AEK Athens,1990,3,3,237,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.06,0.08,0.15,0.06,0.15,Midfielder,0,0,0,0,0
+Ellyes Skhiri,MF,Tunisia,30,KÃ¶ln,1995,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.02,0.05,0.07,0.02,0.07,Midfielder,0,0,0,0,0
+Enzo Fernandez,MF,Argentina,24,Benfica,2001,7,5,564,6.3,1,1,1,0,0,1,0,0.16,0.16,0.32,0.16,0.32,0.3,0.3,0.9,1.2,0.05,0.16,0.21,0.05,0.21,Midfielder,1,1,87.6,68.2,60
+Erick GutiÃ©rrez,MF,Mexico,30,PSV Eindhoven,1995,1,0,49,0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Ethan Ampadu,MF,Wales,25,Spezia,2000,3,3,255,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.2,0.01,0.04,0.05,0.01,0.05,Midfielder,0,0,0,0,0
+Everton Ribeiro,MF,Brazil,36,Flamengo,1989,1,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.21,0.21,0,0.21,Midfielder,0,0,0,0,0
+Exequiel Palacios,MF,Argentina,27,Leverkusen,1998,3,0,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.12,0.12,0.24,0.12,0.24,Midfielder,0,0,0,0,0
+Fabian Frei,MF,Switzerland,36,Basel,1989,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Fabinho,MF,Brazil,32,Liverpool,1993,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Facundo Pellistri,MF,Uruguay,24,Manchester Utd,2001,3,2,181,2,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.08,0.09,0.17,0.08,0.17,Midfielder,0,0,0,0,0
+Federico Valverde,MF,Uruguay,27,Real Madrid,1998,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.4,0.6,0.06,0.14,0.2,0.06,0.2,Midfielder,1,1.3,86.1,57.1,0
+Ferjani Sassi,MF,Tunisia,33,Al Duhail SC,1992,2,0,48,0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Filip ÄuriÄiÄ,MF,Serbia,33,Sampdoria,1992,2,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.23,0.23,0,0.23,Midfielder,0,0,0,0,0
+Firas Al-Buraikan,MF,Saudi Arabia,25,Al-Fateh,2000,3,3,268,3,0,1,0,0,0,0,0,0,0.34,0.34,0,0.34,0.1,0.1,0.1,0.2,0.04,0.02,0.06,0.04,0.06,Midfielder,0,0,0,0,0
+Fred,MF,Brazil,32,Manchester Utd,1993,4,2,142,1.6,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.2,0.6,0.23,0.16,0.39,0.23,0.39,Midfielder,0,0,0,0,0
+Frenkie de Jong,MF,Netherlands,28,Barcelona,1997,5,5,475,5.3,1,1,1,0,0,1,0,0.19,0.19,0.38,0.19,0.38,0.9,0.9,0.2,1.1,0.18,0.04,0.22,0.18,0.22,Midfielder,1,0.8,89.1,49.6,50
+Gavi,MF,Spain,21,Barcelona,2004,4,4,284,3.2,1,0,1,0,0,0,0,0.32,0,0.32,0.32,0.32,0.1,0.1,0.1,0.2,0.04,0.03,0.07,0.04,0.07,Midfielder,0,0,0,0,0
+GaÃ«l Ondoua,MF,Cameroon,30,Hannover 96,1995,2,0,47,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Gerson Torres,MF,Costa Rica,28,Club Sport Herediano,1997,1,1,64,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Midfielder,0,0,0,0,0
+GhaylÃ¨ne Chaalali,MF,Tunisia,31,EspÃ©rance de Tunis,1994,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Giorgian De Arrascaeta,MF,Uruguay,31,Flamengo,1994,2,1,108,1.2,2,0,2,0,0,0,0,1.67,0,1.67,1.67,1.67,1.2,1.2,0.5,1.7,1.01,0.45,1.45,1.01,1.45,Midfielder,0,0,0,0,0
+Gonzalo Plata,MF,Ecuador,25,Valladolid,2000,3,3,269,3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.05,0.06,0.11,0.05,0.11,Midfielder,0,0,0,0,0
+Granit Xhaka,MF,Switzerland,33,Arsenal,1992,4,4,360,4,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.08,0.02,0.1,0.08,0.1,Midfielder,0,0,0,0,0
+Grzegorz Krychowiak,MF,Poland,35,Al-Shabab,1990,4,4,332,3.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0.2,0.01,0.05,0.05,0.01,0.05,Midfielder,0,0,0,0,0
+Guido RodrÃ­guez,MF,Argentina,31,Betis,1994,1,1,56,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Hannibal Mejbri,MF,Tunisia,22,Birmingham City,2003,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Harry Wilson,MF,Wales,28,Fulham,1997,3,2,160,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.5,0.6,0.05,0.28,0.33,0.05,0.33,Midfielder,0,0,0,0,0
+Hassan Al-Haydos,MF,Qatar,35,Al Sadd SC,1990,3,3,206,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0.6,0.01,0.27,0.27,0.01,0.27,Midfielder,0,0,0,0,0
+Hattan Bahebri,MF,Saudi Arabia,33,Al-Shabab,1992,2,0,4,0,0,1,0,0,0,1,0,0,22.5,22.5,0,22.5,0,0,0.6,0.6,0,14.37,14.37,0,14.37,Midfielder,0,0,0,0,0
+Hidemasa Morita,MF,Japan,30,Sporting CP,1995,3,3,285,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.2,0.05,0.03,0.08,0.05,0.08,Midfielder,0,0,0,0,0
+Hiroki Sakai,MF,Japan,35,Urawa Reds,1990,2,1,119,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.1,0.6,0.54,0.07,0.61,0.54,0.61,Midfielder,0,0,0,0,0
+Hwang Hee-chan,MF,Korea Republic,29,Wolves,1996,2,1,115,1.3,1,0,1,0,0,1,0,0.78,0,0.78,0.78,0.78,0.9,0.9,0,1,0.72,0.03,0.75,0.72,0.75,Midfielder,0,0,0,0,0
+Hwang In-beom,MF,Korea Republic,29,Olympiacos,1996,4,4,334,3.7,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0.06,0.02,0.08,0.06,0.08,Midfielder,0,0,0,0,0
+HÃ©ctor Herrera,MF,Mexico,35,Houston Dynamo,1990,2,2,160,1.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.1,0,0.06,0.06,0,0.06,Midfielder,0,0,0,0,0
+Idrissa Gana Gueye,MF,Senegal,36,Everton,1989,3,3,270,3,0,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.11,0.03,0.14,0.11,0.14,Midfielder,0,0,0,0,0
+Ilias Chair,MF,Morocco,28,QPR,1997,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+IsmaÃ«l KonÃ©,MF,Canada,23,CF MontrÃ©al,2002,3,0,109,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.05,0.05,0,0.05,Midfielder,0,0,0,0,0
+Ivan IliÄ,MF,Serbia,24,Hellas Verona,2001,1,0,34,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0.04,0,0.04,Midfielder,0,0,0,0,0
+Jackson Irvine,MF,Australia,32,St. Pauli,1993,4,4,354,3.9,0,0,0,0,0,2,0,0,0,0,0,0,0.5,0.5,0,0.6,0.13,0.01,0.14,0.13,0.14,Midfielder,0,0,0,0,0
+Jakub KamiÅski,MF,Poland,23,Wolfsburg,2002,4,2,233,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.3,0.2,0.5,0.14,0.09,0.23,0.1,0.19,Midfielder,0,0,0,0,0
+Jamal Musiala,MF,Germany,22,Bayern Munich,2003,3,3,258,2.9,0,1,0,0,0,0,0,0,0.35,0.35,0,0.35,1.9,1.9,0.9,2.8,0.67,0.3,0.97,0.67,0.97,Midfielder,1,2.8,85,33.2,59.4
+Jeong Woo-yeong,MF,Korea Republic,26,Freiburg,1999,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06,0,0.06,0.06,0.06,Midfielder,0,0,0,0,0
+Jeremy Doku,MF,Belgium,23,Rennes,2002,1,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Jeremy Sarmiento,MF,Ecuador,23,Brighton,2002,3,0,85,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.07,0.09,0.15,0.07,0.15,Midfielder,0,0,0,0,0
+Jerome Ngom Mbekeli,MF,Cameroon,27,Colombe Sportive du Dja et Lobo,1998,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,2.23,2.23,0,2.23,Midfielder,0,0,0,0,0
+Jesper LindstrÃ¸m,MF,Denmark,25,Eint Frankfurt,2000,3,2,200,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.14,0,0.14,0.14,0.14,Midfielder,0,0,0,0,0
+Jewison Bennette,MF,Costa Rica,21,Sunderland,2004,3,1,103,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Jhegson MÃ©ndez,MF,Ecuador,28,Los Angeles FC,1997,2,2,180,2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.1,0.1,0,0.07,0.07,0,0.07,Midfielder,0,0,0,0,0
+Joe Allen,MF,Wales,35,Swansea City,1990,2,1,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.1,0.05,0.15,0.1,0.15,Midfielder,0,0,0,0,0
+Joe Morrell,MF,Wales,28,Portsmouth,1997,2,0,33,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Jonathan Osorio,MF,Canada,33,Toronto FC,1992,3,1,119,1.3,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.05,0,0.05,0.05,0.05,Midfielder,0,0,0,0,0
+Jordan Henderson,MF,England,35,Liverpool,1990,4,3,271,3,1,0,1,0,0,0,0,0.33,0,0.33,0.33,0.33,0.2,0.2,0.3,0.5,0.05,0.11,0.16,0.05,0.16,Midfielder,0,0,0,0,0
+Jordan Veretout,MF,France,32,Marseille,1993,1,1,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Joshua Kimmich,MF,Germany,30,Bayern Munich,1995,3,3,270,3,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,1.1,1.5,0.12,0.37,0.49,0.12,0.49,Midfielder,4,3,90.8,0,0
+Josao Cifuentes,MF,Ecuador,26,Los Angeles FC,1999,2,0,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Midfielder,0,0,0,0,0
+Joao Palhinha,MF,Portugal,30,Fulham,1995,3,0,38,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.2,0.06,0.3,0.36,0.06,0.36,Midfielder,2,5.1,0,0,0
+Jude Bellingham,MF,England,22,Dortmund,2003,5,5,414,4.6,1,1,1,0,0,0,0,0.22,0.22,0.43,0.22,0.43,0.6,0.6,0.3,0.9,0.12,0.07,0.19,0.12,0.19,Midfielder,1,0.9,90.3,67.2,46.2
+Jung Woo-young,MF,Korea Republic,36,Al Sadd SC,1989,4,4,303,3.4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.1,0.2,0.01,0.04,0.05,0.01,0.05,Midfielder,0,0,0,0,0
+Junya Ito,MF,Japan,32,Reims,1993,4,3,324,3.6,0,1,0,0,0,0,0,0,0.28,0.28,0,0.28,0.2,0.2,0.2,0.4,0.05,0.07,0.12,0.05,0.12,Midfielder,0,0,0,0,0
+Kalvin Phillips,MF,England,30,Manchester City,1995,2,0,42,0.5,0,1,0,0,0,0,0,0,2.14,2.14,0,2.14,0,0,0.1,0.1,0,0.17,0.17,0,0.17,Midfielder,0,0,0,0,0
+Kamil Grosicki,MF,Poland,37,PogoÅ Szczecin,1988,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,1.69,1.69,0,1.69,Midfielder,0,0,0,0,0
+Kaoru Mitoma,MF,Japan,28,Brighton,1997,4,0,165,1.8,0,1,0,0,0,0,0,0,0.55,0.55,0,0.55,0.1,0.1,1.2,1.3,0.05,0.83,0.88,0.05,0.88,Midfielder,0,0,0,0,0
+Karim Boudiaf,MF,Qatar,35,Al Duhail SC,1990,3,2,185,2.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Keanu Baccus,MF,Australia,27,St Mirren,1998,4,1,114,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Kellyn Acosta,MF,United States,30,Los Angeles FC,1995,2,0,43,0.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Kenneth Taylor,MF,Netherlands,23,Ajax,2002,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Koke,MF,Spain,33,AtlÃ©tico Madrid,1992,2,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Krystian Bielik,MF,Poland,27,Derby County,1998,4,2,216,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.07,0,0.07,0.07,0.07,Midfielder,0,0,0,0,0
+Leandro Paredes,MF,Argentina,31,Juventus,1994,5,2,225,2.5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0.1,0.01,0.02,0.03,0.01,0.03,Midfielder,0,0,0,0,0
+Lee Jae-sung,MF,Korea Republic,33,Mainz 05,1992,3,3,211,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.01,0.02,0.03,0.01,0.03,Midfielder,0,0,0,0,0
+Lee Kangin,MF,Korea Republic,24,Mallorca,2001,4,1,147,1.6,0,1,0,0,0,1,0,0,0.61,0.61,0,0.61,0.2,0.2,0.3,0.4,0.09,0.17,0.27,0.09,0.27,Midfielder,0,0,0,0,0
+Leon Goretzka,MF,Germany,30,Bayern Munich,1995,3,2,159,1.8,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0,0.5,0.26,0.01,0.27,0.26,0.27,Midfielder,0,0,0,0,0
+Lovro Majer,MF,Croatia,27,Rennes,1998,7,1,130,1.4,1,0,1,0,0,0,0,0.69,0,0.69,0.69,0.69,0.7,0.7,0.1,0.8,0.67,0.07,0.74,0.67,0.74,Midfielder,0,0,0,0,0
+Lucas PaquetÃ¡,MF,Brazil,28,West Ham,1997,4,4,314,3.5,1,1,1,0,0,0,0,0.29,0.29,0.57,0.29,0.57,0.8,0.8,1.5,2.3,0.24,0.43,0.67,0.24,0.67,Midfielder,0,0,0,0,0
+Luis ChÃ¡vez,MF,Mexico,29,Pachuca,1996,3,3,270,3,1,0,1,0,0,0,0,0.33,0,0.33,0.33,0.33,0.3,0.3,0.5,0.7,0.1,0.15,0.25,0.1,0.25,Midfielder,0,0,0,0,0
+Luka Modric,MF,Croatia,40,Real Madrid,1985,7,7,653,7.3,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.7,1.1,0.06,0.11,0.16,0.06,0.16,Midfielder,2,0.8,88.6,62.5,54.5
+Marcelo BrozoviÄ,MF,Croatia,33,Inter,1992,6,6,552,6.1,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.2,0.7,0.09,0.03,0.12,0.09,0.12,Midfielder,0,0,,0,0
+Mario GÃ¶tze,MF,Germany,33,Eint Frankfurt,1992,2,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.21,0.29,0.5,0.21,0.5,Midfielder,0,0,0,0,0
+Mark-Anthony Kaye,MF,Canada,31,Toronto FC,1994,1,1,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.06,0,0.06,0.06,0.06,Midfielder,0,0,0,0,0
+Marko GrujiÄ,MF,Serbia,29,Porto,1996,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.26,0,0.26,0.26,0.26,Midfielder,0,0,0,0,0
+Marten de Roon,MF,Netherlands,34,Atalanta,1991,5,3,184,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Martin Hongla,MF,Cameroon,27,Hellas Verona,1998,2,2,121,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.1,0.04,0.05,0.09,0.04,0.09,Midfielder,0,0,0,0,0
+Mason Mount,MF,England,26,Chelsea,1999,4,2,186,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.1,0.02,0.12,0.1,0.12,Midfielder,0,0,0,0,0
+Mateo Kovacic,MF,Croatia,31,Chelsea,1994,7,7,635,7.1,0,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,1,1.3,0.05,0.14,0.18,0.05,0.18,Midfielder,2,1.3,90.8,70.8,61.1
+Matheus Nunes,MF,Portugal,27,Wolves,1998,2,1,73,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.03,0.12,0.14,0.03,0.14,Midfielder,0,0,0,0,0
+Mathew Leckie,MF,Australia,34,Melb City,1991,4,4,333,3.7,1,1,1,0,0,0,0,0.27,0.27,0.54,0.27,0.54,0.1,0.1,0.3,0.5,0.04,0.08,0.12,0.04,0.12,Midfielder,0,0,0,0,0
+Mathias Jensen,MF,Denmark,29,Brentford,1996,2,1,84,0.9,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.4,0.5,0.11,0.38,0.5,0.11,0.5,Midfielder,0,0,0,0,0
+MatÃ­as Vecino,MF,Uruguay,34,Lazio,1991,3,2,195,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.05,0,0.05,0.05,0.05,Midfielder,0,0,0,0,0
+Mehdi Torabi,MF,IR Iran,31,Persepolis,1994,3,0,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.6,0.7,0.18,0.82,1,0.18,1,Midfielder,0,0,0,0,0
+MichaÅ SkÃ³raÅ,MF,Poland,25,Lech PoznaÅ,2000,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0,0.04,0.04,0.04,Midfielder,0,0,0,0,0
+Michel Aebischer,MF,Switzerland,28,Bologna,1997,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Mikkel Damsgaard,MF,Denmark,25,Brentford,2000,3,1,150,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.2,0.2,0,0.2,Midfielder,0,0,0,0,0
+Mohamed Ali Ben Romdhane,MF,Tunisia,26,EspÃ©rance de Tunis,1999,1,1,73,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Mohamed Kanno,MF,Saudi Arabia,31,Al-Hilal,1994,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.1,0,0.1,0.1,0.1,Midfielder,0,0,0,0,0
+Mohammed Waad,MF,Qatar,26,Al Sadd SC,1999,2,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+MoisÃ©s Caicedo,MF,Ecuador,24,Brighton,2001,3,3,269,3,1,0,1,0,0,1,0,0.33,0,0.33,0.33,0.33,0.5,0.5,0,0.5,0.17,0,0.17,0.17,0.17,Midfielder,0,0,0,0,0
+Nampalys Mendy,MF,Senegal,33,Leicester City,1992,4,3,272,3,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.02,0.01,0.03,0.02,0.03,Midfielder,0,0,0,0,0
+Nawaf Al Abed,MF,Saudi Arabia,35,Al-Shabab,1990,2,0,88,1,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.13,0.06,0.2,0.13,0.2,Midfielder,0,0,0,0,0
+NaÃ¯m Sliti,MF,Tunisia,33,Al-Ettifaq,1992,2,1,114,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.3,0.11,0.1,0.21,0.11,0.21,Midfielder,0,0,0,0,0
+Nemanja Gudelj,MF,Serbia,34,Sevilla,1991,2,1,92,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Nemanja MaksimoviÄ,MF,Serbia,30,Getafe,1995,3,1,122,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.07,0.07,0,0.07,Midfielder,0,0,0,0,0
+Neymar,MF,Brazil,33,Paris S-G,1992,3,3,279,3.1,2,0,1,1,1,0,0,0.65,0,0.65,0.32,0.32,2.7,1.9,0.8,2.7,0.98,0.29,1.27,0.7,0.98,Midfielder,1,0.5,0,0,0
+Nicola Zalewski,MF,Poland,23,Roma,2002,2,1,65,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+NicolÃ¡s De La Cruz,MF,Uruguay,28,River Plate,1997,2,0,38,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09,0,0.09,0.09,0.09,Midfielder,0,0,0,0,0
+Noa Lang,MF,Netherlands,26,Club Brugge,1999,1,0,8,0.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Olivier Ntcham,MF,Cameroon,29,Swansea City,1996,1,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.16,0.09,0.25,0.16,0.25,Midfielder,0,0,0,0,0
+OrbelÃ­n Pineda,MF,Mexico,29,AEK Athens,1996,1,1,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.38,0.07,0.45,0.38,0.45,Midfielder,0,0,0,0,0
+Osman Bukari,MF,Ghana,27,Red Star,1998,2,0,59,0.7,1,0,1,0,0,0,0,1.53,0,1.53,1.53,1.53,0.5,0.5,0.1,0.6,0.76,0.09,0.85,0.76,0.85,Midfielder,0,0,0,0,0
+Otavio,MF,Portugal,30,Porto,1995,3,3,196,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.4,0.5,0.05,0.17,0.23,0.05,0.23,Midfielder,1,1.8,78.3,100,0
+Paik Seung-ho,MF,Korea Republic,28,Jeonbuk,1997,1,0,26,0.3,1,0,1,0,0,0,0,3.46,0,3.46,3.46,3.46,0,0,0,0,0.15,0,0.15,0.15,0.15,Midfielder,0,0,0,0,0
+Pape Gueye,MF,Senegal,26,Marseille,1999,3,1,153,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.07,0.11,0.18,0.07,0.18,Midfielder,0,0,0,0,0
+Pape Matar Sarr,MF,Senegal,23,Tottenham,2002,2,0,59,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.2,0.18,0.05,0.23,0.18,0.23,Midfielder,0,0,0,0,0
+Papu Gomez,MF,Argentina,37,Sevilla,1988,2,2,107,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.03,0,0.03,0.03,0.03,Midfielder,0,0,0,0,0
+PathÃ© Ciss,MF,Senegal,31,Rayo Vallecano,1994,3,2,146,1.6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Midfielder,0,0,0,0,0
+Pedri,MF,Spain,23,Barcelona,2002,4,4,356,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0.8,0,0.22,0.22,0,0.22,Midfielder,2,1.3,90.9,50,54.5
+Pierre HÃ¸jbjerg,MF,Denmark,30,Tottenham,1995,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.01,0.01,0.02,0.01,0.02,Midfielder,0,0,0,0,0
+Pierre Kunde,MF,Cameroon,30,Olympiacos,1995,2,2,131,1.5,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0.15,0.05,0.2,0.15,0.2,Midfielder,0,0,0,0,0
+Piotr Zielinski,MF,Poland,31,Napoli,1994,4,4,328,3.6,1,0,1,0,0,0,0,0.27,0,0.27,0.27,0.27,0.6,0.6,0.4,1,0.16,0.11,0.26,0.16,0.26,Midfielder,0,0,0,0,0
+PrzemysÅaw Frankowski,MF,Poland,30,Lens,1995,4,3,240,2.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0.3,0.01,0.09,0.11,0.01,0.11,Midfielder,0,0,0,0,0
+Remo Freuler,MF,Switzerland,33,Nott'ham Forest,1992,4,4,323,3.6,1,0,1,0,0,0,0,0.28,0,0.28,0.28,0.28,0.5,0.5,0,0.5,0.14,0,0.14,0.14,0.14,Midfielder,0,0,0,0,0
+Riyadh Sharahili,MF,Saudi Arabia,32,Abha,1993,1,0,54,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.05,0.05,0,0.05,Midfielder,0,0,0,0,0
+Roan Wilson,MF,Costa Rica,23,Municipal Grecia,2002,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Rodrigo Bentancur,MF,Uruguay,28,Tottenham,1997,3,3,213,2.4,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.1,0.8,0.26,0.06,0.32,0.26,0.32,Midfielder,0,0,0,0,0
+Rodrigo De Paul,MF,Argentina,31,AtlÃ©tico Madrid,1994,7,7,599,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0.9,0.3,1.2,0.13,0.05,0.18,0.13,0.18,Midfielder,0,0,0,0,0
+Rodrygo,MF,Brazil,24,Real Madrid,2001,5,1,181,2,0,1,0,0,0,0,0,0,0.5,0.5,0,0.5,0.4,0.4,0.4,0.9,0.26,0.25,0.52,0.26,0.52,Midfielder,0,0,0,0,0
+Romario Ibarra,MF,Ecuador,31,Pachuca,1994,2,1,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.19,0,0.19,0.19,0.19,Midfielder,0,0,0,0,0
+Rubin Colwill,MF,Wales,23,Cardiff City,2002,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21,0,0.21,0.21,0.21,Midfielder,0,0,0,0,0
+Ruben Neves,MF,Portugal,28,Wolves,1997,5,4,268,3,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.03,0.01,0.04,0.03,0.04,Midfielder,0,0,0,0,0
+Saeid Ezatolahi,MF,IR Iran,29,Vejle BK,1996,3,2,217,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.04,0.08,0.12,0.04,0.12,Midfielder,0,0,0,0,0
+Salem Al-Dawsari,MF,Saudi Arabia,34,Al-Hilal,1991,3,3,270,3,2,0,2,0,1,1,0,0.67,0,0.67,0.67,0.67,1.8,1,0.2,1.2,0.59,0.08,0.67,0.32,0.4,Midfielder,0,0,0,0,0
+Salis Abdul Samed,MF,Ghana,25,Lens,2000,3,3,250,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.01,0.01,0.02,0.01,0.02,Midfielder,0,0,0,0,0
+Salman Al-Faraj,MF,Saudi Arabia,36,Al-Hilal,1989,1,1,44,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Saman Ghoddos,MF,IR Iran,32,Brentford,1993,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.36,0.05,0.41,0.36,0.41,Midfielder,0,0,0,0,0
+Sami Al-Najei,MF,Saudi Arabia,28,Al-Nassr,1997,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Samuel Oum Gouet,MF,Cameroon,28,Mechelen,1997,2,1,100,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+SaÅ¡a LukiÄ,MF,Serbia,29,Torino,1996,3,3,245,2.7,0,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0,0.1,0.02,0,0.02,0.02,0.02,Midfielder,0,0,0,0,0
+Sebastian SzymaÅski,MF,Poland,26,Feyenoord,1999,2,2,134,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Selim Amallah,MF,Morocco,29,Standard LiÃ¨ge,1996,7,4,409,4.5,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0.05,0.02,0.07,0.05,0.07,Midfielder,0,0,0,0,0
+Sergej MilinkoviÄ-SaviÄ,MF,Serbia,30,Lazio,1995,3,3,233,2.6,1,0,1,0,0,1,0,0.39,0,0.39,0.39,0.39,0.2,0.2,0,0.2,0.07,0,0.07,0.07,0.07,Midfielder,0,0,0,0,0
+Sergio Busquets,MF,Spain,37,Barcelona,1988,4,4,363,4,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.04,0.02,0.06,0.04,0.06,Midfielder,0,0,0,0,0
+Sofiyan Amrabat,MF,Morocco,29,Fiorentina,1996,7,7,660,7.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.1,0,0.01,0.01,0,0.01,Midfielder,1,0.3,85.4,62.5,0
+Son Jun-ho,MF,Korea Republic,33,Shandong Lunen,1992,3,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Sorba Thomas,MF,Wales,26,Huddersfield,1999,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Stephen EustÃ¡quio,MF,Canada,29,Porto,1996,2,2,125,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.3,0.13,0.11,0.24,0.13,0.24,Midfielder,0,0,0,0,0
+Steven Berghuis,MF,Netherlands,34,Ajax,1991,4,1,200,2.2,0,1,0,0,0,1,0,0,0.45,0.45,0,0.45,0.3,0.3,0.1,0.3,0.13,0.04,0.17,0.13,0.17,Midfielder,0,0,0,0,0
+Tajon Buchanan,MF,Canada,26,Club Brugge,1999,3,3,260,2.9,0,1,0,0,0,1,0,0,0.35,0.35,0,0.35,0.9,0.9,0.5,1.4,0.33,0.17,0.5,0.33,0.5,Midfielder,0,0,0,0,0
+Teun Koopmeiners,MF,Netherlands,27,Atalanta,1998,5,1,219,2.4,0,1,0,0,0,1,0,0,0.41,0.41,0,0.41,0.1,0.1,0.2,0.3,0.04,0.09,0.13,0.04,0.13,Midfielder,0,0,0,0,0
+Thiago Almada,MF,Argentina,24,Atlanta Utd,2001,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,3.16,3.16,0,3.16,Midfielder,0,0,0,0,0
+Thomas Delaney,MF,Denmark,34,Sevilla,1991,1,1,44,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Thomas Partey,MF,Ghana,32,Arsenal,1993,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0.07,0.02,0.09,0.07,0.09,Midfielder,0,0,0,0,0
+Tyler Adams,MF,United States,26,Leeds United,1999,4,4,360,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.4,0.5,0.01,0.11,0.12,0.01,0.12,Midfielder,0,0,0,0,0
+Vitinha,MF,Portugal,25,Paris S-G,2000,3,1,120,1.3,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.05,0.03,0.08,0.05,0.08,Midfielder,0,0,0,0,0
+Wataru Endo,MF,Japan,32,Stuttgart,1993,4,3,304,3.4,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.5,0.6,0.06,0.15,0.21,0.06,0.21,Midfielder,0,0,0,0,0
+Weston McKennie,MF,United States,27,Juventus,1998,4,4,271,3,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.4,0.8,0.13,0.13,0.27,0.13,0.27,Midfielder,0,0,0,0,0
+William Carvalho,MF,Portugal,33,Betis,1992,4,2,215,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.03,0,0.03,0.03,0.03,Midfielder,0,0,0,0,0
+Yahya Jabrane,MF,Morocco,34,Wydad Casablanca,1991,2,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,,,,Midfielder,0,0,0,0,0
+Yeltsin Tejeda,MF,Costa Rica,33,Club Sport Herediano,1992,3,3,269,3,1,1,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,0.4,0.4,0.1,0.5,0.14,0.02,0.17,0.14,0.17,Midfielder,0,0,0,0,0
+Youri Tielemans,MF,Belgium,28,Leicester City,1997,3,1,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.07,0.07,0,0.07,Midfielder,0,0,0,0,0
+Youssef Msakni,MF,Tunisia,35,Al-Arabi SC,1990,2,2,169,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.6,1.2,0.29,0.34,0.62,0.29,0.62,Midfielder,0,0,0,0,0
+Youssouf Fofana,MF,France,26,Monaco,1999,6,2,227,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.3,0.07,0.07,0.14,0.07,0.14,Midfielder,0,0,0,0,0
+Yunus Musah,MF,United States,23,Valencia,2002,4,4,343,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.08,0.02,0.11,0.08,0.11,Midfielder,0,0,0,0,0
+Yuto Nagatomo,MF,Japan,39,FC Tokyo,1986,4,4,209,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.05,0.05,0,0.05,Midfielder,0,0,0,0,0
+Alvaro Zamora,MF,Costa Rica,23,Deportivo Saprissa,2002,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Angel Correa,MF,Argentina,30,AtlÃ©tico Madrid,1995,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder,0,0,0,0,0
+Ikay Gundogan,MF,Germany,35,Manchester City,1990,3,3,189,2.1,1,0,0,1,1,0,0,0.48,0,0.48,0,0,1.1,0.4,0.1,0.5,0.54,0.05,0.6,0.17,0.22,Midfielder,0,0,0,0,0

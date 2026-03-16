@@ -1,0 +1,42 @@
+player,position,team,age,club,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,pens_sav,cards_yellow,cards_red,goals_per90,assists_per90,xg,npxg,xg_assist,npxg_xg_assist,xg_per90,xg_assist_per90,xg_xg_assist_per90,npxg_per90,npxg_xg_assist_per90,Clean_s,saves,general_position,goal_conceded,goals_conceded_per90,save_percentage
+Aymen Dahmen,GK,Tunisia,28,CS Sfaxien,1997,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,Goalkeeper,1,0.333333333,90
+Alireza Beiranvand,GK,IR Iran,33,Persepolis,1992,2,2,109,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,Goalkeeper,7,5.779816514,41.66666667
+Alisson,GK,Brazil,33,Liverpool,1992,4,4,379,4.2,0,0,0,0,0,0,0,0,0,0,0,ir,0,0,0,0,2,5,Goalkeeper,2,0.474934037,71.42857143
+Andries Noppert,GK,Netherlands,31,Heerenveen,1994,5,5,480,5.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,18,Goalkeeper,4,0.75,81.81818182
+Andre Onana,GK,Cameroon,29,Inter,1996,1,1,80,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Goalkeeper,1,1.125,66.66666667
+Danny Ward,GK,Wales,32,Leicester City,1993,2,1,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Goalkeeper,3,2.872340426,57.14285714
+Devis Epassy,GK,Cameroon,32,Abha,1993,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,Goalkeeper,3,1.5,75
+Diogo Costa,GK,Portugal,26,Porto,1999,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,1,12,Goalkeeper,6,1.2,66.66666667
+Dominik Livakovic,GK,Croatia,30,Dinamo Zagreb,1995,7,7,690,7.7,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,2,25,Goalkeeper,8,1.043478261,75.75757576
+Ederson,GK,Brazil,32,Manchester City,1993,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Goalkeeper,1,1,66.66666667
+Edouard Mendy,GK,Senegal,33,Chelsea,1992,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,0,7,Goalkeeper,5,1.25,58.33333333
+Emiliano Martinez,GK,Argentina,33,Aston Villa,1992,7,7,690,7.7,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,7,Goalkeeper,8,1.043478261,46.66666667
+Gregor Kobel,GK,Switzerland,28,Dortmund,1997,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Goalkeeper,2,2,50
+Guillermo Ochoa,GK,Mexico,40,Club America,1985,3,3,270,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Goalkeeper,3,1,50
+Hernan Galindez,GK,Ecuador,38,SD Aucas,1987,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Goalkeeper,3,1,25
+Hossein Hosseini,GK,IR Iran,33,Esteghlal,1992,2,1,161,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Goalkeeper,0,0,100
+Hugo Lloris,GK,France,39,Tottenham,1986,6,6,570,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,17,Goalkeeper,6,0.947368421,73.91304348
+Jordan Pickford,GK,England,31,Everton,1994,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,Goalkeeper,4,0.8,69.23076923
+Kasper Schmeichel,GK,Denmark,39,Nice,1986,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,Goalkeeper,3,1,72.72727273
+Keylor Navas,GK,Costa Rica,39,Paris S-G,1986,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,Goalkeeper,11,3.666666667,50
+Kim Seung-gyu,GK,Korea Republic,35,Al-Shabab,1990,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,Goalkeeper,6,1.5,64.70588235
+Lawrence Ati-Zigi,GK,Ghana,29,St. Gallen,1996,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,Goalkeeper,7,2.333333333,63.15789474
+Manuel Neuer,GK,Germany,39,Bayern Munich,1986,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,Goalkeeper,5,1.666666667,61.53846154
+Mathew Ryan,GK,Australia,33,FC Copenhagen,1992,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,12,Goalkeeper,6,1.5,66.66666667
+Matt Turner,GK,United States,31,Arsenal,1994,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,9,Goalkeeper,3,0.75,75
+Meshaal Barsham,GK,Qatar,27,Al Sadd SC,1998,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,Goalkeeper,5,2.5,44.44444444
+Milan Borjan,GK,Canada,38,Red Star,1987,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,Goalkeeper,7,2.333333333,53.33333333
+Mohammed Al-Owais,GK,Saudi Arabia,34,Al-Hilal,1991,3,3,270,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,14,Goalkeeper,6,2,70
+Munir,GK,Morocco,36,Al-Wehda,1989,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Goalkeeper,0,0,100
+Saad Al Sheeb,GK,Qatar,35,Al Sadd SC,1990,1,1,90,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Goalkeeper,2,2,33.33333333
+Sergio Rochet,GK,Uruguay,32,Nacional,1993,3,3,270,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,Goalkeeper,2,0.666666667,71.42857143
+Shuichi Gonda,GK,Japan,36,S-Pulse,1989,4,4,390,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,Goalkeeper,5,1.153846154,75
+Steve Mandanda,GK,France,40,Rennes,1985,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,Goalkeeper,1,1,66.66666667
+Thibaut Courtois,GK,Belgium,33,Real Madrid,1992,3,3,270,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,8,Goalkeeper,2,0.666666667,80
+Unai Simon,GK,Spain,28,Athletic Club,1997,4,4,390,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,Goalkeeper,3,0.692307692,66.66666667
+Vanja Milinkovic-Savic,GK,Serbia,28,Torino,1997,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,Goalkeeper,8,2.666666667,66.66666667
+Wayne Hennessey,GK,Wales,38,Nott'ham Forest,1987,2,2,175,1.9,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,Goalkeeper,3,1.542857143,57.14285714
+Wojciech Szczesny,GK,Poland,35,Juventus,1990,4,4,360,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,23,Goalkeeper,5,1.25,82.14285714
+Weverton Pereira da Silva,GK,Brazil,38,Palmeiras,1987,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Goalkeeper,0,0,0
+Yann Sommer,GK,Switzerland,37,M'Gladbach,1988,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,12,Goalkeeper,6,2,66.66666667
+Yassine Bounou,GK,Morocco,34,Sevilla,1991,6,6,570,6.3,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,Goalkeeper,5,0.789473684,61.53846154
