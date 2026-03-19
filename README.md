@@ -1,6 +1,6 @@
 # ⚽ FIFA World Cup 2022 Best XI – Data Analytics Project
 
-##📊 A data-driven approach to selecting the Best XI from FIFA World Cup 2022 using statistical modeling and performance analytics.
+## 📊 A data-driven approach to selecting the Best XI from FIFA World Cup 2022 using statistical modeling and performance analytics.
 
 ## 📌 Project Overview
 
